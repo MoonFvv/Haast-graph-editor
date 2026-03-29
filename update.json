@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "files": [
+    "dist/index.html",
+    "dist/assets/index.js",
+    "dist/assets/index.css"
+  ]
+}

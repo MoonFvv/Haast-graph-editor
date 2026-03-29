@@ -1,0 +1,9 @@
+node_modules/
+releases/
+.dmg-staging/
+*.dmg
+.env
+.DS_Store
+.claude/
+.claude-flow/
+.mcp.json
